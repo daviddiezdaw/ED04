@@ -1,3 +1,8 @@
+/**
+ * Aquest és un programa per fer operacions bancàries
+ * @author David Díez Sánchez
+ *
+ **/
 package cuentas;
 
 public class Main {
